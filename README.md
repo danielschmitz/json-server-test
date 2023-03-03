@@ -28,4 +28,6 @@ curl -X DELETE http://localhost:3000/books/14
 
 Now, books has 4 records!!!!!!! Severeval books was deleted... why ?
 
-![](video.mp4)
+https://user-images.githubusercontent.com/1509692/222708641-e261794b-ffa8-4bb1-93ec-e4e5132910d1.mp4
+
+
